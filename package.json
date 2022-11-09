@@ -1,0 +1,13 @@
+{
+  "name": "std-ts",
+  "version": "0.1.0",
+  "description": "Collection of standard functions",
+  "main": "./index.js",
+  "repository": "https://github.com/p00dle/std-ts",
+  "author": "Krzysztof Siuda",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
